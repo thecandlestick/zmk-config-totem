@@ -96,10 +96,10 @@
 
         sym_num {
             bindings = <
-        &trans  &kp AMPERSAND    &kp ASTERISK  &caps_word  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp KP_N7              &kp KP_N8                &kp KP_N9            &trans
-        &trans  &kp DOLLAR       &kp PERCENT   &kp CARET   &kp LEFT_BRACE          &kp RIGHT_BRACE        &mt RIGHT_SHIFT KP_N4  &mt RIGHT_CONTROL KP_N5  &mt RIGHT_ALT KP_N6  &mt RIGHT_GUI KP_N0
-&trans  &trans  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH    &kp LEFT_BRACKET        &kp RIGHT_BRACKET      &kp KP_N1              &kp KP_N2                &kp KP_N3            &trans               &trans
-                                 &kp GRAVE     &kp MINUS   &kp EQUAL               &trans                 &trans                 &trans
+        &trans  &kp AMPERSAND    &kp ASTERISK  &caps_word  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp N7                    &kp N8                &kp N9                  &trans
+        &trans  &kp DOLLAR       &kp PERCENT   &kp CARET   &kp LEFT_BRACE          &kp RIGHT_BRACE        &mt RIGHT_SHIFT NUMBER_4  &mt RIGHT_CONTROL N5  &mt RIGHT_ALT NUMBER_6  &mt RIGHT_GUI N0
+&trans  &trans  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH    &kp LEFT_BRACKET        &kp RIGHT_BRACKET      &kp NUMBER_1              &kp NUMBER_2          &kp NUMBER_3            &trans            &trans
+                                 &kp GRAVE     &kp MINUS   &kp EQUAL               &trans                 &trans                    &trans
             >;
         };
 
