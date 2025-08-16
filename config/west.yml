@@ -12,5 +12,8 @@ manifest:
     - name: zmk-auto-layer
       remote: urob
       revision: main # set to same version as zmk above
+    - name: zmk-helpers
+      remote: urob
+      revision: main
   self:
     path: config
